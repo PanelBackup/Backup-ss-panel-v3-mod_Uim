@@ -1,5 +1,3 @@
-本教程转载自 [VINGA 的博客](https://vinga.tech/ssrmu/)，已获作者授权
- > 市面上有很多一键部署sspanel v3 mod后端的脚本.但要么不太好使.要么有使用条件.而且安装时间也比较长.于是做了个docker.利用HyperApp即可一键解决
 
 ### 更新记录
 
