@@ -8,12 +8,10 @@
 - **商店**：商品增加同时连接设备数，用户限速属性
 - 从肥羊那里**抄**来的：新用户注册现金奖励|高等级节点体验|设备数量限制
 - **优化**：css和js等置入本地提升加载速度
-- 增加**v2Ray** 功能，详情请看 wiki: [Indexyz 版](https://github.com/779537937/panel/wiki/v2ray---indexyz-%E7%89%88%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B)  |  [Rico 版](https://github.com/779537937/panel/wiki/v2ray---Rico-%E7%89%88%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B)
-
 
 ## 搭建教程
 
-GitHub Wiki : https://github.com/779537937/panel/wiki/%E5%89%8D%E7%AB%AF%E5%AE%89%E8%A3%85
+GitHub Wiki : https://github.com/779537937/panel/tree/master/wiki
 
 Wiki已经启用，欢迎为此面板维护wiki
 
