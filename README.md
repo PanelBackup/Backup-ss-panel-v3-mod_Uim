@@ -11,7 +11,7 @@
 
 ## 搭建教程
 
-GitHub Wiki : https://github.com/779537937/panel/tree/master/wiki
+GitHub Wiki : https://github.com/779537937/Panel-Wiki
 
 Wiki已经启用，欢迎为此面板维护wiki
 
