@@ -22,7 +22,7 @@
                             <div class="card-inner">
                                 <div class="card-inner">
                                     <p class="card-heading">注意!</p>
-                                    <p>购买完成后查看充值码，复制回来充值</p>
+                                    <p>由于支付系统出错不可用请购买卡密回来充值。购买完成后查看充值码，复制回来充值</p>
 									<p>因余额不足而未能完成的自动续费，在余额足够时会自动划扣续费。</p>
                                     {if $config["enable_admin_contact"] == 'true'}
                                         <p class="card-heading">如果没有到账请立刻联系管理员：</p>
