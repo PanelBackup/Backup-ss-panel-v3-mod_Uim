@@ -22,8 +22,7 @@
                             <div class="card-inner">
                                 <div class="card-inner">
                                     <p class="card-heading">注意!</p>
-                                    <p>由于支付系统出错不可用请购买卡密回来充值。购买完成后查看充值码，复制回来充值</p>
-									<p>因余额不足而未能完成的自动续费，在余额足够时会自动划扣续费。</p>
+                                    <p>由于支付系统出错不可用请使用卡密充值。充值完成后需刷新网页以查看余额，通常一分钟内到账。</p>
                                     {if $config["enable_admin_contact"] == 'true'}
                                         <p class="card-heading">如果没有到账请立刻联系管理员：</p>
                                         {if $config["admin_contact1"]!=null}
@@ -63,7 +62,7 @@
                             <div class="card-inner">
                                 <div class="card-inner">
                                     <div class="cardbtn-edit">
-											<div class="card-heading">充值码</div>
+											<div class="card-heading">充值码-<a href="http://pr.kuaifaka.com/item/HsWny3">点我打开发卡平台</a></div>
 											<button class="btn btn-flat" id="code-update" ><span class="icon">favorite_border</span></button>
 									</div>
                                     <div class="form-group form-group-label">
